@@ -19,3 +19,6 @@ DAX for measures and calculated columns
 
 Relational data modeling using IPL match, player, and ball-by-ball datasets
 
+
+- Project inspired by [IPL Analysis in Power BI 2008 - 2025 by Data Tutorials] on YouTube.
+
